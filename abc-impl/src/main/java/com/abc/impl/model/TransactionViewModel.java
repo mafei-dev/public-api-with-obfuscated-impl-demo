@@ -1,4 +1,4 @@
-package abc.impl.model;
+package com.abc.impl.model;
 
 import org.abc.api.model.TransactionView;
 

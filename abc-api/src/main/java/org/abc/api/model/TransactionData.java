@@ -1,4 +1,12 @@
 package org.abc.api.model;
 
-public class TransactionData {
+public interface TransactionData {
+
+    void setTransactionId(String transactionId);
+
+    String getTransactionId();
+
+    void setAmount(double amount);
+
+    double getAmount();
 }

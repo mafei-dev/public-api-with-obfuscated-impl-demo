@@ -1,13 +1,20 @@
-package abc.impl.persistence;
+package com.abc.impl.persistence;
 
-import abc.impl.model.TransactionViewModel;
+import com.abc.impl.model.TransactionViewModel;
 import org.abc.api.model.TransactionView;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
 
 @Component
 public class TransactionMapper {
+    private static Logger log = LoggerFactory.getLogger(TransactionMapper.class);
+
+    public TransactionMapper() {
+        log.info("TransactionMapper instantiated");
+    }
 
     public List<TransactionView> getAllTransactions() {
         TransactionViewModel model1 = new TransactionViewModel();
