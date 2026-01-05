@@ -1,6 +1,6 @@
-package com.abc.impl.persistence;
+package org.abc.impl.persistence;
 
-import com.abc.impl.model.TransactionViewModel;
+import org.abc.impl.model.TransactionViewModel;
 import org.abc.api.model.TransactionView;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
-package com.abc.impl.service;
+package org.abc.impl.service;
 
-import com.abc.impl.persistence.TransactionMapper;
+import org.abc.impl.persistence.TransactionMapper;
 import org.abc.api.exception.InvalidTransaction;
 import org.abc.api.model.TransactionData;
 import org.abc.api.model.TransactionView;

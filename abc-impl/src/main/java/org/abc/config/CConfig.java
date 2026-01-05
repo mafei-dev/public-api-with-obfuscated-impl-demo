@@ -1,15 +1,12 @@
-package com.abc.config;
+package org.abc.config;
 
-import com.abc.impl.persistence.TransactionMapper;
-import com.abc.impl.service.TransactionServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.context.annotation.Import;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 
-@Import({
-        TransactionMapper.class,
-        TransactionServiceImpl.class,
-})
+@ComponentScan("org.abc.impl")
+@Configuration
 public class CConfig {
     private static Logger log = LoggerFactory.getLogger(CConfig.class);
 
