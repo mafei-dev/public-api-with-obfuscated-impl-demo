@@ -32,10 +32,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.demo</groupId>
+            <groupId>io.github.mafei-dev</groupId>
             <artifactId>abc-api</artifactId>
             <version>1.0.0</version>
-            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
