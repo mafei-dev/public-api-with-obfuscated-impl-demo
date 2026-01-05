@@ -1,5 +1,0 @@
-org.abc.impl.config.CConfig
-org.abc.impl.config.CConfig: org.slf4j.Logger log
-org.abc.impl.config.CConfig: CConfig()
-org.abc.impl.config.CConfig: void <clinit>()
-org.abc.impl.service.TransactionServiceImpl: TransactionServiceImpl(org.abc.impl.persistence.TransactionMapper)
