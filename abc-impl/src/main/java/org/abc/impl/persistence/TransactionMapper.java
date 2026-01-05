@@ -1,7 +1,7 @@
 package org.abc.impl.persistence;
 
-import org.abc.impl.model.TransactionViewModel;
 import org.abc.api.model.TransactionView;
+import org.abc.impl.model.TransactionViewModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;

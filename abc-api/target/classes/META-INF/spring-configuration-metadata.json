@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "demo",
+      "type": "org.abc.api.config.DemoProperties",
+      "sourceType": "org.abc.api.config.DemoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "demo.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enable demo mode",
+      "sourceType": "org.abc.api.config.DemoProperties",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e91c79f0-f49f-4131-a86b-cbb6d7fa2057" name="Changes" comment="Update dependency groupId for abc-api to io.github.mafei-dev">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-impl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc-spring-boot-starter/src/main/java/org/abc/api/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/proguard.conf" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/proguard.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/config/CConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/impl/config/CConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/impl/persistence/TransactionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/impl/persistence/TransactionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/impl/service/TransactionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/src/main/java/org/abc/impl/service/TransactionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-impl/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/abc-impl/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-spring-boot-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/abc-spring-boot-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-spring-boot-starter/src/main/java/org/demo/abcspringbootstarter/AbcSpringBootStarterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-spring-boot-starter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc-spring-boot-starter/src/test/java/org/demo/abcspringbootstarter/AbcSpringBootStarterApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mafei-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mafei-dev/public-api-with-obfuscated-impl-demo.git&quot;,
+    &quot;accountId&quot;: &quot;418c1206-239f-48ad-b8f9-5ac2a9802c25&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="explicitlyEnabledProfiles" value="publish" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="37prC4b3azlpDMDDNI0kVAvexwD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "Maven.abc-api [clean].executor": "Run",
+    "Maven.abc-api [compile].executor": "Run",
+    "Maven.abc-api [deploy].executor": "Run",
+    "Maven.abc-api [verify].executor": "Run",
+    "Maven.abc-impl [clean].executor": "Run",
+    "Maven.abc-impl [install].executor": "Run",
+    "Maven.abc-impl [package].executor": "Run",
+    "Maven.abc-impl [verify].executor": "Run",
+    "Maven.abc-spring-boot-starter [clean].executor": "Run",
+    "Maven.abc-spring-boot-starter [org.springframework.boot:spring-boot-maven-plugin:3.5.9:run].executor": "Run",
+    "Maven.abc-spring-boot-starter [org.springframework.boot:spring-boot-maven-plugin:3.5.9:start].executor": "Run",
+    "Maven.abc-spring-boot-starter [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.AbcSpringBootStarterApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mafei/Documents/public-api-with-obfuscated-impl-demo/.github/workflows",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mafei\Documents\public-api-with-obfuscated-impl-demo\.github\workflows" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="AbcSpringBootStarterApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="AbcSpringBootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="abc-spring-boot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.demo.abcspringbootstarter.AbcSpringBootStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e91c79f0-f49f-4131-a86b-cbb6d7fa2057" name="Changes" comment="" />
+      <created>1767610722736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767610722736</updated>
+      <workItem from="1767610724207" duration="6102000" />
+      <workItem from="1767622261910" duration="1924000" />
+      <workItem from="1767624350128" duration="12459000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactor package structure and enhance transaction management features">
+      <option name="closed" value="true" />
+      <created>1767612229166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767612229166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactor package structure by renaming configuration and implementation files">
+      <option name="closed" value="true" />
+      <created>1767612340485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767612340485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update package structure and configuration for GitHub Packages publishing">
+      <option name="closed" value="true" />
+      <created>1767630266676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767630266676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add release workflow and update dependencies for Maven Central publishing">
+      <option name="closed" value="true" />
+      <created>1767630488520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767630488520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update dependency groupId for abc-api to io.github.mafei-dev">
+      <option name="closed" value="true" />
+      <created>1767630645790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767630645790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor package structure and enhance transaction management features" />
+    <MESSAGE value="Refactor package structure by renaming configuration and implementation files" />
+    <MESSAGE value="Update package structure and configuration for GitHub Packages publishing" />
+    <MESSAGE value="Add release workflow and update dependencies for Maven Central publishing" />
+    <MESSAGE value="Update dependency groupId for abc-api to io.github.mafei-dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update dependency groupId for abc-api to io.github.mafei-dev" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
