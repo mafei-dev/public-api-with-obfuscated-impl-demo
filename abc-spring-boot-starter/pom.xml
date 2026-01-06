@@ -5,7 +5,7 @@
 
     <groupId>io.github.mafei-dev</groupId>
     <artifactId>abc-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <name>abc-spring-boot-starter</name>
     <description>abc-spring-boot-starter</description>
     <licenses>
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>io.github.mafei-dev</groupId>
             <artifactId>abc-impl</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>io.github.mafei-dev</groupId>
